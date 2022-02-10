@@ -23,3 +23,5 @@ https://maketintsandshades.com/  make colore shade how many dark lite use create
 file:///home/navgurukul/Downloads/all-design-guidelines.pdf design rules in css
 
 https://github.com/jonasschmedtmann/html-css-course/tree/master/final/09-Omnifood-Optimizations  omnifood projects contents
+
+https://flexboxfroggy.com/ flex game
