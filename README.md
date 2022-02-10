@@ -1,6 +1,10 @@
 # some_importents
 importents links for study
 
+
+https://www.w3schools.com/cssref/playdemo.asp?filename=playcss_align-content  solv css problem importent link
+
+
 https://postimages.org/ create a img link for using meta tag
 
 https://squoosh.app/  make a img 
