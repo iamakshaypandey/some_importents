@@ -2,6 +2,9 @@
 importents links for study
 
 
+https://css-tricks.com/a-complete-guide-to-css-media-queries/    media queries full details
+
+
 https://www.w3schools.com/cssref/playdemo.asp?filename=playcss_align-content  solv css problem importent link
 
 
