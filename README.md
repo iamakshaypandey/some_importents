@@ -1,6 +1,10 @@
 # some_importents
 importents links for study
 
+https://codescracker.com/css/css-pseudo-classes.htm learn htcm css
+https://www.freecodecamp.org/news/the-html-handbook/ learn HTML
+http://web.simmons.edu/~grovesd/comm244/notes/week4/block-inline block inline element
+
 https://www.tutorialrepublic.com/twitter-bootstrap-examples.php HTML CSS BOTstrap link
 
 
