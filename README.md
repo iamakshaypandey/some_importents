@@ -1,6 +1,8 @@
 # some_importents
 importents links for study
 
+https://imagekit.io/blog/how-to-resize-image-in-html/#:~:text=One%20of%20the%20simplest%20ways,image%20is%20640%C3%97960. background image setup
+
 https://codescracker.com/css/css-pseudo-classes.htm learn htcm css
 https://www.freecodecamp.org/news/the-html-handbook/ learn HTML
 http://web.simmons.edu/~grovesd/comm244/notes/week4/block-inline block inline element
