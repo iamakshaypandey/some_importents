@@ -1,6 +1,9 @@
 # some_importents
 importents links for study
 
+
+https://leafletjs.com/SlavaUkraini/index.html       leaflet map create link web
+
 https://imagekit.io/blog/how-to-resize-image-in-html/#:~:text=One%20of%20the%20simplest%20ways,image%20is%20640%C3%97960. background image setup
 https://codepen.io/yuhomyan/pen/LYNVVNO   css button design link
 https://codescracker.com/css/css-pseudo-classes.htm learn htcm css
