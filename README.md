@@ -1,6 +1,9 @@
 # some_importents
 importents links for study
+![image](https://user-images.githubusercontent.com/85728247/163977530-d62f347c-58f5-47cd-8e92-350cca24422f.png)
+
 add the model viw controler img work
+
 ![image](https://user-images.githubusercontent.com/85728247/163976924-d4fc69f9-e4b0-45ba-b43d-cbc8ad005469.png)
 
 
