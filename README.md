@@ -1,6 +1,6 @@
 # some_importents
 importents links for study
-![image](https://user-images.githubusercontent.com/85728247/163975254-26433c59-3274-4827-91b0-d4619af1c669.png)
+![image](https://user-images.githubusercontent.com/85728247/163976083-578895c4-0984-43ed-a727-fd5764b5be76.png)
 
 
 https://leafletjs.com/SlavaUkraini/index.html       leaflet map create link web
